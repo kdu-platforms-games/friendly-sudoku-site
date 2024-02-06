@@ -1,0 +1,12 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "org.kdu.games.friendlysudoku",
+      "sha256_cert_fingerprints": [
+        "7B:56:2A:64:A1:59:B2:6A:B6:B6:52:E9:A5:E9:FA:63:86:12:ED:BE:85:17:FB:AB:2E:E6:CA:7A:4A:86:1F:C5"
+      ]
+    }
+  }
+]
