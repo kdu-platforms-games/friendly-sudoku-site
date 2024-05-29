@@ -24,7 +24,7 @@ const urls = ref([
   <ContentBx
     appName="Friendly Sudoku"
     description="Friendly Sudoku is an interesting offline logic puzzle game. The goal is to fill the complete board with numbers. Every number may only occur once in every column, row and subsection."
-    playStoreLink="https://play.google.com/store/apps/details?id=org.kdu.games.friendlysudoku"
+    playStoreLink="https://play.google.com/store/apps/details?id=org.kdu.game.friendlysudoku"
     appleStoreLink=""
     :imgSrc="imgSrc"
   />
